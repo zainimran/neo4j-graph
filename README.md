@@ -3,4 +3,6 @@
 2. Then, run `npm start` in root dir to start the React dev environment. A browser instance will open at this point
 3. Finally, navigate to /src and run `node server` to start the server
 
+Note: Neo4j db config in root/src/server.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
